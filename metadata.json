@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster's Gambit",
+  "description": "A sophisticated offline-playable chess application featuring a sleek UI, legal move validation, and an optional AI engine powered by Gemini for move analysis and hints.",
+  "requestFramePermissions": []
+}
